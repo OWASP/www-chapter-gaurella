@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Saurabh Ranjan](mailto:ranjan.saurabh@owasp.org)
+* [Prerana Sinha](mailto:prerana.sinha@owasp.org)
+* [Suresh Yadav](mailto:suresh.yadav@owasp.org)
