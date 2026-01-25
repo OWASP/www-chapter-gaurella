@@ -10,7 +10,8 @@ region: Asia
 
 ## Welcome
 
-<img src="assets/images/logo/owasp_gaurella_logo.png">
+
+<img src="assets/images/owasp_gaurella_logo.png">
 
 OWASP Gaurella Chapter is a community-driven initiative established to promote awareness, education, and best practices in application security across Gaurella and nearby regions of Chhattisgarh. The chapter serves as a platform for students, developers, cybersecurity professionals, researchers, and technology enthusiasts to collaborate and grow together.
 
