@@ -50,7 +50,6 @@ tags: Gaurella
 </style>
 
 # **Previous Meeting Venue and Dates**
-
 <table>
 <thead>
 <tr class="header">
@@ -67,7 +66,6 @@ tags: Gaurella
 <td>In-Person Meet</td>
 <td>04:00 PM to 06:30 PM IST</td>
 </tr>
-
 </tbody>
 </table>
   
