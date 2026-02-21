@@ -35,7 +35,32 @@ Everyone is welcome and encouraged to participate in the broader OWASP community
 We strongly encourage diversity and inclusion in all OWASP initiatives. OWASP Gaurella provides an excellent opportunity to learn application security, network with security professionals, contribute to open-source security projects, and build a strong security mindset within the local tech ecosystem. We also encourage you to [become an OWASP member](/membership) or consider making a [donation](/donate) to support OWASP’s global mission.
 
 
-## Upcoming Meetup Events
+## Past Chapter Events
+---
+title: PreviousMeetings
+displaytext: Previous Meetings
+tab: true
+order: 4
+tags: Gaurella
+---
+<style>
+  main {
+    word-break: normal;
+  } 
+</style>
+
+# **Previous Meeting Venue and Dates**
+
+<table>
+<thead>
+<tr class="header">
+<th>No</th>
+<th>Date</th>
+<th>Venue</th>
+<th>Time</th>
+</tr>
+</thead>
+## Upcoming Chapter  Events
 
 {% include chapter_events.html group=page.meetup-group %}
 
