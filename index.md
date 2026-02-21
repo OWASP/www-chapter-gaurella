@@ -60,6 +60,17 @@ tags: Gaurella
 <th>Time</th>
 </tr>
 </thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>21 Feb 2026</td>
+<td>In-Person Meet</td>
+<td>04:00 PM to 06:30 PM IST</td>
+</tr>
+
+</tbody>
+</table>
+  
 ## Upcoming Chapter  Events
 
 {% include chapter_events.html group=page.meetup-group %}
