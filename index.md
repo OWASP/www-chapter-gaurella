@@ -94,6 +94,12 @@ We strongly encourage diversity and inclusion in all OWASP initiatives. OWASP Ga
 <td>02:00 PM to 03:30 PM IST</td>
 </tr>
 
+<tr>
+<td>8</td>
+<td>29 September 2026</td>
+<td>In-Person Meet</td>
+<td>06:30 PM to 08:30 PM IST</td>
+</tr>
 </tbody>
 </table>
   
