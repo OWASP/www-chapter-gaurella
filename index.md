@@ -102,6 +102,7 @@ We strongly encourage diversity and inclusion in all OWASP initiatives. OWASP Ga
 </tr>
 </tbody>
 </table>
+
 <tr>
 <td>9</td>
 <td>18 October 2026</td>
