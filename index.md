@@ -112,7 +112,6 @@ We strongly encourage diversity and inclusion in all OWASP initiatives. OWASP Ga
 </tbody>
 </table>
 
-  
 ## Upcoming Chapter  Events
 
 {% include chapter_events.html group=page.meetup-group %}
